@@ -1,0 +1,1 @@
+# idea-spark-ai-enhanced-journal
